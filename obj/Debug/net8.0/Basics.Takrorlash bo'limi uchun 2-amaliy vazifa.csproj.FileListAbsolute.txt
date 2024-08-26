@@ -1,0 +1,14 @@
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.AssemblyInfoInputs.cache
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.AssemblyInfo.cs
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.csproj.CoreCompileInputs.cache
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\bin\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.exe
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\bin\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.deps.json
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\bin\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.runtimeconfig.json
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\bin\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.dll
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\bin\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.pdb
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.dll
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\refint\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.dll
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.pdb
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.genruntimeconfig.cache
+D:\VSCode (mohirdev)\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa\obj\Debug\net8.0\ref\Basics.Takrorlash bo'limi uchun 2-amaliy vazifa.dll
