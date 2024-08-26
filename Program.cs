@@ -1,6 +1,7 @@
-﻿using System.Runtime.CompilerServices;
-
-
+﻿// Vazifa menejeri:
+// Vazifalarni boshqarish uchun dastur yozing. Foydalanuvchi vazifalarni qo'shishi, o'chirishi va bajarilganligini belgilashi kerak. Dastur vazifalar ro'yxatini va ularning holatini saqlashi kerak.
+//  For loop, While loop yoki Forech-dan foydalaning, va Array yoki List-dan foydalaning.
+using System.Runtime.CompilerServices;
 static string[] qoshish(string[]s, string str)
 {
     List<string> list = new List<string>(s);
